@@ -28,55 +28,73 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Hunger</dc:title>
 		<meta property="file-as" refines="#title">Hunger</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Authors -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Norway -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Hunger -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Starvation -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Urban poor -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh2007100550</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh2008108201</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Starvation drives an aspiring writer to the brink of insanity as he struggles to escape extreme poverty, and simultaneously to pursue a woman, in late nineteenth-century Christiania.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Hunger&lt;/i&gt; recounts the physical and mental decline of an aspiring writer struggling to establish himself in late nineteenth-century Christiania. Initially hungry and weeks behind on his rent, the unnamed protagonist becomes increasingly destitute and, as his starvation progresses, decreasingly rational. He tries, often failing, to pawn as many of his remaining possessions as he can spare, down to his coat buttons and old blanket. When the protagonist leaves the cramped lodgings he cannot afford, he sleeps on benches and streets at night; during the day he tries desperately both to acquire any amount of money and to maintain a front of respectability. At the same time, he attempts to compose journalistic and literary works to sell and becomes infatuated with a woman he feels compelled to harass on the street, for whom he coins the nonsense name Ylajali.&lt;/p&gt;
+			&lt;p&gt;The book has been received as a proto-modernist portrait of urban alienation; it is also a study of a particular character, based on that of Hamsun himself, whose own experiences of severe hunger, financial hardship and literary ambition supplied the raw material for the work. Like the unnamed protagonist, Hamsun’s dishevelled and emaciated appearance shocked the editor to whom he delivered the first part of his manuscript, impelling the latter to immediately give the author five kroner, as the editor in &lt;i&gt;Hunger&lt;/i&gt; sends money to the protagonist. Various other autobiographical details have been identified in the book, including one of Hamsun’s places of residence in Oslo, leading biographer Robert Ferguson to label Hunger “Hamsun’s self-portrait in fiction.”&lt;/p&gt;
+			&lt;p&gt;Often described as plotless, &lt;i&gt;Hunger&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/knut-hamsun"&gt;Knut Hamsun’s&lt;/a&gt; first published novel, which he wrote to Danish literary critic Georg Brandes “must not be regarded as a novel.” To Hamsun, traditionally “novelistic” structures were incompatible with his own fascination, namely “the endless motion of [his] own mind.” Instead, as he wrote to his friend Erik Frydenlund, he viewed the book as “a series of analyses.” These analyses predominantly concern the protagonist’s psychology: the emotions and fantasies of his turbulent inner life are recorded in detail, periods of manic creativity giving way to violent and at times self-punishing despair. When through various strokes of luck he comes into small amounts of money, he tends to squander it immediately out of spite, pride or inappropriate generosity, only to be racked once again with shame over what he regards as the disgrace of his poverty. In this &lt;i&gt;Hunger&lt;/i&gt; stands as a timeless description of the distinctive instability, irrationality and desperation that accompany extreme starvation; Hamsun’s further aim, expressed to Georg Brandes, was to depict “the strange and peculiar life of the mind, the mysteries of the nerves in a starving body.”&lt;/p&gt;
+			&lt;p&gt;An extract from the book was published in November 1888 in the Danish periodical &lt;i&gt;Ny Jord&lt;/i&gt;, as Hamsun needed the money. The anonymously published excerpt was a sensation in the Danish-speaking world of letters and, once the identity of its author became known, drew Hamsun into the prestigious literary circles of Copenhagen, where he was staying at the time. When the completed book was published nineteen months later, it brought its author international fame, bolstered by its rapid translation into German one month after its publication in Denmark and Norway. As with the rest of Hamsun’s oeuvre, &lt;i&gt;Hunger&lt;/i&gt;’s popularity waned drastically after the Second World War due to the author’s support of Nazism, and this element of the author’s biography continues to constrain its readership today. However, the apolitical, inwardly-focused &lt;i&gt;Hunger&lt;/i&gt; has been recognised by critics as one of Hamsun’s best works, a classic of Norwegian literature and an important forerunner of twentieth-century modernism.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks edition uses the translation by George Egerton, pseudonym of writer and translator Mary Chavelita Dunne Bright. Originally censored in part, the 1921 edition reproduced here restores the missing sections.&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>https://en.wikisource.org/wiki/Hunger_(Hamsun)</dc:source>
+		<dc:source>https://archive.org/details/hunger__00hams</dc:source>
+		<meta property="se:production-notes">An endnote has been added to chapter 4 concerning translator George Egerton's substitution of "Leeds" with "Leith." The letter "ö" used by Egerton in two Norwegian titles in the preface has been modernized to "ø".</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hunger</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/knut-hamsun_hunger_george-egerton</meta>
 		<dc:creator id="author">Knut Hamsun</dc:creator>
 		<meta property="file-as" refines="#author">Hamsun, Knut</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Knut_Hamsun</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79089334</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">George Egerton</dc:contributor>
 		<meta property="file-as" refines="#translator">Egerton, George</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#translator">Mary Chavelita Dunne Bright</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/George_Egerton</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n84125174</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">Edvard Munch</dc:contributor>
+		<meta property="file-as" refines="#artist">Munch, Edvard</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edvard_Munch</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79006348</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">https://en.wikisource.org</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-1">https://en.wikipedia.org/wiki/Wikisource</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Erin Endrei</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Endrei, Erin</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

@@ -56,7 +56,7 @@
 		<dc:source>https://en.wikisource.org/wiki/Hunger_(Hamsun)</dc:source>
 		<dc:source>https://archive.org/details/hunger__00hams</dc:source>
 		<meta property="se:production-notes">An endnote has been added to chapter 4 concerning translator George Egerton's substitution of "Leeds" with "Leith." The letter "ö" used by Egerton in two Norwegian titles in the preface has been modernized to "ø".</meta>
-		<meta property="se:word-count">66865</meta>
+		<meta property="se:word-count">66866</meta>
 		<meta property="se:reading-ease.flesch">80.21</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hunger</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/knut-hamsun_hunger_george-egerton</meta>

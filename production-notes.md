@@ -1,0 +1,1 @@
+An endnote has been added to chapter 4 concerning translator George Egerton's substitution of "Leeds" with "Leith." The letter "ö" used by Egerton in two Norwegian titles in the preface has been modernized to "ø".
